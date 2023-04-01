@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RedPotion
+  - Attack
+  - bullet
+  - Enemy
+  - Obstacle
+  - potion
+  - Teleporter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: invisible
+    uniqueID: 864071843
+    locked: 0
+  - name: Background
+    uniqueID: 3195941805
+    locked: 0
+  - name: Collectibles
+    uniqueID: 4243514111
+    locked: 0
+  - name: Player
+    uniqueID: 1408351159
+    locked: 0
